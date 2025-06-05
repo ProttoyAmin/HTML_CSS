@@ -139,8 +139,6 @@ nav button {
     align-items: center;
 }
 
-
-
 .secImg {
     position: relative;
 }
@@ -172,9 +170,7 @@ section.first>div :nth-child(1) {
 
 section.first>div :nth-child(2) {
     font-size: 24px;
-
 }
-
 
 .faq h2 {
     text-align: center;
@@ -219,14 +215,11 @@ footer .questions {
     padding: 34px 0;
 }
 
-
 .footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     color: white;
 }
-
-
 
 @media screen and (max-width: 1300px) {
 
